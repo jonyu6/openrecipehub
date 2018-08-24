@@ -1,0 +1,10 @@
+tomato_salad:
+  name: "Tomato Salad"
+  ingredients:
+  - tomato
+  - basil
+  - olive oil
+  - salt
+  - pepper
+  links:
+  - https://www.foodnetwork.com/recipes/jamie-oliver/the-mothership-tomato-salad-recipe-2011973
